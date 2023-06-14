@@ -1,4 +1,4 @@
-<img src="">
+<img src="IMG_20230614_190943.jpg">
 
 
 #### CARA INSTALL SCRIPT:
@@ -13,13 +13,13 @@ pip install bs4
 pip install requests
 pip install rich
 pip install mechanize
-git clone https://github.com/XyzonXD/zuck
+git clone https://github.com/XyzonXD/zack
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
-cd zuck
+cd zack
 git pull
 python run.py
 ```
