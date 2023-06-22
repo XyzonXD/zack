@@ -1,4 +1,4 @@
-<img src="IMG_20230616_144636.jpg">
+<img src="IMG_20230622_175507.jpg">
 
 
 #### CARA INSTALL SCRIPT:
